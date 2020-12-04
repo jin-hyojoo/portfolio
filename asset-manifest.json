@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.782af064.chunk.css",
+    "main.js": "/portfolio/static/js/main.443ff79e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.443ff79e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.f2651e88.chunk.js": "/portfolio/static/js/2.f2651e88.chunk.js",
+    "static/js/2.f2651e88.chunk.js.map": "/portfolio/static/js/2.f2651e88.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.e90cb7e19a8f7dbef5a239ba9285b148.js": "/portfolio/precache-manifest.e90cb7e19a8f7dbef5a239ba9285b148.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.782af064.chunk.css.map": "/portfolio/static/css/main.782af064.chunk.css.map",
+    "static/js/2.f2651e88.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f2651e88.chunk.js.LICENSE.txt",
+    "static/media/default.css": "/portfolio/static/media/librebaskerville-regular-webfont.eaf077e2.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.f2651e88.chunk.js",
+    "static/css/main.782af064.chunk.css",
+    "static/js/main.443ff79e.chunk.js"
+  ]
+}
