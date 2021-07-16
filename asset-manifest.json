@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jin-hyojoo/portfolio.git/static/css/main.61604d88.chunk.css",
-    "main.js": "/jin-hyojoo/portfolio.git/static/js/main.de022b55.chunk.js",
-    "main.js.map": "/jin-hyojoo/portfolio.git/static/js/main.de022b55.chunk.js.map",
-    "runtime-main.js": "/jin-hyojoo/portfolio.git/static/js/runtime-main.064fc92a.js",
-    "runtime-main.js.map": "/jin-hyojoo/portfolio.git/static/js/runtime-main.064fc92a.js.map",
-    "static/js/2.c75a06c1.chunk.js": "/jin-hyojoo/portfolio.git/static/js/2.c75a06c1.chunk.js",
-    "static/js/2.c75a06c1.chunk.js.map": "/jin-hyojoo/portfolio.git/static/js/2.c75a06c1.chunk.js.map",
-    "index.html": "/jin-hyojoo/portfolio.git/index.html",
-    "precache-manifest.39abfa3eb869af46fb2368c5857d21a0.js": "/jin-hyojoo/portfolio.git/precache-manifest.39abfa3eb869af46fb2368c5857d21a0.js",
-    "service-worker.js": "/jin-hyojoo/portfolio.git/service-worker.js",
-    "static/css/main.61604d88.chunk.css.map": "/jin-hyojoo/portfolio.git/static/css/main.61604d88.chunk.css.map",
-    "static/js/2.c75a06c1.chunk.js.LICENSE.txt": "/jin-hyojoo/portfolio.git/static/js/2.c75a06c1.chunk.js.LICENSE.txt",
-    "static/media/default.css": "/jin-hyojoo/portfolio.git/static/media/librebaskerville-regular-webfont.eaf077e2.ttf"
+    "main.css": "/portfolio/static/css/main.5df31249.chunk.css",
+    "main.js": "/portfolio/static/js/main.fd5080bf.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fd5080bf.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.865b7f40.chunk.js": "/portfolio/static/js/2.865b7f40.chunk.js",
+    "static/js/2.865b7f40.chunk.js.map": "/portfolio/static/js/2.865b7f40.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.76eba02226180b531e5cf5a22eb93c62.js": "/portfolio/precache-manifest.76eba02226180b531e5cf5a22eb93c62.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.5df31249.chunk.css.map": "/portfolio/static/css/main.5df31249.chunk.css.map",
+    "static/js/2.865b7f40.chunk.js.LICENSE.txt": "/portfolio/static/js/2.865b7f40.chunk.js.LICENSE.txt",
+    "static/media/default.css": "/portfolio/static/media/librebaskerville-regular-webfont.eaf077e2.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.064fc92a.js",
-    "static/js/2.c75a06c1.chunk.js",
-    "static/css/main.61604d88.chunk.css",
-    "static/js/main.de022b55.chunk.js"
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.865b7f40.chunk.js",
+    "static/css/main.5df31249.chunk.css",
+    "static/js/main.fd5080bf.chunk.js"
   ]
 }
